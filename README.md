@@ -1,5 +1,7 @@
 ## 👋 Hi, I’m @Reda-aimeur
 
+![ZNzeE0.gif](https://i.makeagif.com/media/5-07-2016/ZNzeE0.gif)
+
 # 🌱 I’m currently learning ...
 
 ```text
